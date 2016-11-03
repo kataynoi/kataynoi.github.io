@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _site
 .sass-cache
 # phpstorm project files
@@ -8,3 +9,8 @@ _site
 .buildpath
 .project
 .settings
+=======
+_site/
+.sass-cache/
+.jekyll-metadata
+>>>>>>> f6af46a03ef5a2bfdfef50bdd2436d00dcc26d6e
