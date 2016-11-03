@@ -5,16 +5,16 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Hosxp Manual
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <p> แหล่งรวบรวม คู่มือ การตั้งค่า การบันทึกข้อมูลในโปรแกรม  Hosxp_pcu เพื่อใช้ประกอบการทำงานของเจ้าหน้าที่สาธารณสุข จังหวัดมหาสารคาม</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  # <p> นายเดชาชิต แก้วม่วง หัวหน้างานข้อมูลและเทคโนโลยีสานสนเทศสาธารณสุข จังหวัดมหาสารคาม</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
