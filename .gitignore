@@ -1,2 +1,10 @@
 _site
 .sass-cache
+# phpstorm project files
+.idea
+
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
