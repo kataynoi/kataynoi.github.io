@@ -39,40 +39,10 @@ title: การตรวจสอบและตั้งค่าตารา�
 * **student_vaccine**
 * **provis_vcctype**
 
-โดยเราสามารถเข้าไปดูตารางต่างๆ การใข้งาน [การเข้าถึงตารางด้วย SqlQuery]({% link _posts/2016-11-02-Sql_query_hosxp.md %})git ได้ โดยใช้ Login ที่มีสิทธิ Admin
+โดยเราสามารถเข้าไปดูตารางต่างๆ การใข้งาน [การเข้าถึงตารางด้วย SqlQuery]({% link _posts/2016-11-02-Sql_query_hosxp.md %}) ได้ โดยใช้ Login ที่มีสิทธิ Admin
 
 > 1. ตาราง  ***person_vaccine***
 > โดยตาราง ***person_vaccine*** นั้นจะเก็บข้อมูลของวัคซีนทุกตัว 
 
 ![person_vaccine](/img/epi/person_vaccine.png)
 
-```sql
-SElSECT * FROM tb_person Where A=1
-
-```
-
-```ruby
-
-public function actionLogin()
-    {
-        if (!\Yii::$app->user->isGuest) {
-            return $this->goHome();
-        }
-
-        $model = new LoginForm();
-        if ($model->load(Yii::$app->request->post()) && $model->login()) {
-            return $this->goBack();
-        } else {
-            return $this->render('login', [
-                'model' => $model,
-            ]);
-        }
-    }
-```
-
-
-{% highlight ruby linenos %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
