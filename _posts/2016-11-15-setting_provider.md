@@ -12,7 +12,7 @@ title: การตั้งค่า provider ให้สามารถส่
 บุคคลากร Provider ประเภทต่างๆ 
 ![providertype](/img/setting/providertype.png)
 
-####การตั้งค่า Provider ใน  Hosxp_pcu 
+#### การตั้งค่า Provider ใน  Hosxp_pcu 
 ---
 > Hosxp:pcu->Tool->System setting แล้วเลือกแท๊บ `แพทย์/พยาบาล`
 
