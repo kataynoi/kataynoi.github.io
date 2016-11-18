@@ -10,3 +10,4 @@ feature-img: "img/sample_feature_img_2.png"
     * [ตั้งค่าเพื่อส่งออก ข้อมูลผู้ให้บริการ Provider ]({% link _posts/2016-11-15-setting_provider.md %})
 2. #### การตั้งค่าและปรับปรุงระบบ สำหรับ Admin
     * [การเข้าถึงตารางด้วย SqlQuery]({% link _posts/2016-11-02-Sql_query_hosxp.md %})
+    * [การนำเข้ารายงานใหม่และการจัดการ  Report Template ]({% link _posts/2016-11-18-import_report.md %})
