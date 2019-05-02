@@ -14,6 +14,8 @@ feature-img: "img/sample_feature_img_2.png"
 3. #### การตั้งค่าและปรับปรุงระบบ สำหรับ Admin
     * [การเข้าถึงตารางด้วย SqlQuery]({% link _posts/2016-11-02-Sql_query_hosxp.md %})
     * [การนำเข้ารายงานใหม่และการจัดการ  Report Template ]({% link _posts/2016-11-18-import_report.md %})
-4. #### ระบบงานอื่นๆ
+4. #### วิธีการบันทุกข้อมูลมใน Hosxp_pcu
+    * [การบันทึกความครอบคลุม Pap Smear  ในกรณีรับบริการที่อื่น ]({% link _posts/2019-05-01-save_papsmear.md %})
+5. #### ระบบงานอื่นๆ
     * [วิธีการสมัครเข้าใช้งาน โปรแกรม  Cockpit v.3 เขตสุขภาพที่  7]({% link _posts/2018-08-21-Manual_cockpit.md %})
     
